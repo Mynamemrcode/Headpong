@@ -1,0 +1,18 @@
+button {
+    background-color:cadetblue;
+    width:100px;
+    height: 50px;
+    border-radius: 15px;
+}
+body {
+    background: #345734;
+    background-repeat: no-repeat;
+}
+h1{
+    background: maroon;
+    width:100%;
+}
+canvas {
+    border-radius: 15px;
+    border-style: double;
+}
