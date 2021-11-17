@@ -8,6 +8,7 @@ body {
     background: #345734;
     background-repeat: no-repeat;
 }
+
 h1{
     background: maroon;
     width:100%;
@@ -15,4 +16,11 @@ h1{
 canvas {
     border-radius: 15px;
     border-style: double;
+}
+#wee {
+    position:fixed;
+    bottom: 0;
+    width:100%;
+    background-color: pink;
+    z-index:10;
 }
