@@ -16,6 +16,7 @@ h1{
 canvas {
     border-radius: 15px;
     border-style: double;
+    margin-top: 2in;
 }
 #wee {
     position:fixed;
